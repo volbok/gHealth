@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/gHealth/static/css/main.caa2224f.chunk.css",
-    "main.js": "/gHealth/static/js/main.3df5d2ea.chunk.js",
-    "main.js.map": "/gHealth/static/js/main.3df5d2ea.chunk.js.map",
+    "main.css": "/gHealth/static/css/main.5f6e5abb.chunk.css",
+    "main.js": "/gHealth/static/js/main.b952c342.chunk.js",
+    "main.js.map": "/gHealth/static/js/main.b952c342.chunk.js.map",
     "runtime-main.js": "/gHealth/static/js/runtime-main.6761bb85.js",
     "runtime-main.js.map": "/gHealth/static/js/runtime-main.6761bb85.js.map",
     "static/css/2.598ec726.chunk.css": "/gHealth/static/css/2.598ec726.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.ac5636ce.chunk.js.map": "/gHealth/static/js/2.ac5636ce.chunk.js.map",
     "index.html": "/gHealth/index.html",
     "static/css/2.598ec726.chunk.css.map": "/gHealth/static/css/2.598ec726.chunk.css.map",
-    "static/css/main.caa2224f.chunk.css.map": "/gHealth/static/css/main.caa2224f.chunk.css.map",
+    "static/css/main.5f6e5abb.chunk.css.map": "/gHealth/static/css/main.5f6e5abb.chunk.css.map",
     "static/js/2.ac5636ce.chunk.js.LICENSE.txt": "/gHealth/static/js/2.ac5636ce.chunk.js.LICENSE.txt",
     "static/media/bot.ca8c9b3f.gif": "/gHealth/static/media/bot.ca8c9b3f.gif",
     "static/media/check.8a456aef.jpg": "/gHealth/static/media/check.8a456aef.jpg",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.6761bb85.js",
     "static/css/2.598ec726.chunk.css",
     "static/js/2.ac5636ce.chunk.js",
-    "static/css/main.caa2224f.chunk.css",
-    "static/js/main.3df5d2ea.chunk.js"
+    "static/css/main.5f6e5abb.chunk.css",
+    "static/js/main.b952c342.chunk.js"
   ]
 }
