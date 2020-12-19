@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gHealth/static/css/main.891e251a.chunk.css",
-    "main.js": "/gHealth/static/js/main.966e77c4.chunk.js",
-    "main.js.map": "/gHealth/static/js/main.966e77c4.chunk.js.map",
+    "main.js": "/gHealth/static/js/main.53cfb44f.chunk.js",
+    "main.js.map": "/gHealth/static/js/main.53cfb44f.chunk.js.map",
     "runtime-main.js": "/gHealth/static/js/runtime-main.6761bb85.js",
     "runtime-main.js.map": "/gHealth/static/js/runtime-main.6761bb85.js.map",
     "static/css/2.598ec726.chunk.css": "/gHealth/static/css/2.598ec726.chunk.css",
@@ -25,6 +25,6 @@
     "static/css/2.598ec726.chunk.css",
     "static/js/2.ac5636ce.chunk.js",
     "static/css/main.891e251a.chunk.css",
-    "static/js/main.966e77c4.chunk.js"
+    "static/js/main.53cfb44f.chunk.js"
   ]
 }
